@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators", "Operators\Oper
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathFunctions", "MathFunctions\MathFunctions.csproj", "{CC90DA10-EDB9-4B22-A4E1-4087D386A11E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditions", "Conditions\Conditions.csproj", "{152EDF00-1721-4115-A88B-B182E22EC845}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{CC90DA10-EDB9-4B22-A4E1-4087D386A11E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC90DA10-EDB9-4B22-A4E1-4087D386A11E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC90DA10-EDB9-4B22-A4E1-4087D386A11E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{152EDF00-1721-4115-A88B-B182E22EC845}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{152EDF00-1721-4115-A88B-B182E22EC845}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{152EDF00-1721-4115-A88B-B182E22EC845}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{152EDF00-1721-4115-A88B-B182E22EC845}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
