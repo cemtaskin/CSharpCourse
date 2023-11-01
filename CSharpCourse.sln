@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables", "Variables\Vari
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators", "Operators\Operators.csproj", "{5301D246-F6E9-4707-B874-D508A74FF889}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathFunctions", "MathFunctions\MathFunctions.csproj", "{CC90DA10-EDB9-4B22-A4E1-4087D386A11E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{5301D246-F6E9-4707-B874-D508A74FF889}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5301D246-F6E9-4707-B874-D508A74FF889}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5301D246-F6E9-4707-B874-D508A74FF889}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC90DA10-EDB9-4B22-A4E1-4087D386A11E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC90DA10-EDB9-4B22-A4E1-4087D386A11E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC90DA10-EDB9-4B22-A4E1-4087D386A11E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC90DA10-EDB9-4B22-A4E1-4087D386A11E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
